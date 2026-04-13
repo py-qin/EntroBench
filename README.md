@@ -1,0 +1,2 @@
+- This repository is based on [MarkLLM](https://github.com/THU-BPM/MarkLLM).
+- Evaluation can be found at `main.py`
